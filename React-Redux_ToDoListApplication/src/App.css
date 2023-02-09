@@ -1,0 +1,25 @@
+@import '~antd/dist/antd.css';
+
+.ant-select-multiple .ant-select-selection-item {
+  height: 27px;
+  
+}
+
+.todolist-delete-task-button {
+  border: none;
+  border-radius: 2px;
+  font-size: 15px;
+  width: 80px;
+  background-color: rgb(202,52,56);
+  color: white;
+}
+
+.todolist-delete-task-button:hover {
+  border: 1px solid #000;
+  background-color: red;
+  font-weight: bolder;
+  background-color: rgb(202,52,56);
+}
+
+/* , backgroundColor: 'rgb(202,52,56)' */
+
